@@ -1,0 +1,15 @@
+{
+  "name": "LocationProcessor",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node LocationProcessor.js"
+  },
+  "dependencies": {
+    "exceljs": "^1.6.3",
+    "exif-parser": "^0.1.12",
+    "geo-lib": "^0.3.1",
+    "geolib": "^2.0.24",
+    "subtitles-parser": "0.0.2"
+  }
+}
